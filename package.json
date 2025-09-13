@@ -1,0 +1,13 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "\"Barebones Node.js with MongoDB setup\"",
+  "main": "index.js",
+  "author": "yuri-gagarin <ymivanov@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.18.1"
+  }
+}
