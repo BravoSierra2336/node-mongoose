@@ -2,7 +2,10 @@
   "name": "node-mongodb",
   "version": "1.0.0",
   "description": "\"Barebones Node.js with MongoDB setup\"",
-  "main": "index.js",
+  "main": "program.js",
+  "scripts": {
+    "start": "node program.js"
+  },
   "author": "yuri-gagarin <ymivanov@icloud.com>",
   "license": "MIT",
   "dependencies": {
